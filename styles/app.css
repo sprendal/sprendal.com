@@ -388,6 +388,10 @@ main {
   justify-content: center;
   width: 100vw; }
 
+article {
+  font-size: 1.25rem;
+  width: 46rem; }
+
 h1,
 h2,
 h3,
@@ -400,4 +404,5 @@ p {
   margin-top: 0; }
 
 a {
-  color: #6a737b; }
+  color: #c33;
+  text-decoration: none; }
