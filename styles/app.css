@@ -368,14 +368,14 @@ textarea {
   /* 2 */ }
 
 :root {
-  color: #333;
+  color: #38332e;
   font-size: 16px;
   line-height: 1.5; }
 
 html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: "PT Sans";
+  font-family: "Lato";
   text-rendering: optimizeLegibility; }
 
 figure {
@@ -385,12 +385,16 @@ main {
   align-items: center;
   display: flex;
   height: 100vh;
+  justify-content: center;
   width: 100vw; }
 
-article {
-  align-items: center;
-  display: flex;
-  font-size: 1.25rem; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  letter-spacing: -.05em; }
 
 p {
   margin-top: 0; }
