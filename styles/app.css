@@ -368,7 +368,7 @@ textarea {
   /* 2 */ }
 
 :root {
-  color: #38332e;
+  color: #444;
   font-size: 16px;
   line-height: 1.5; }
 
@@ -390,7 +390,7 @@ main {
 
 article {
   font-size: 1.25rem;
-  width: 46rem; }
+  width: 40rem; }
 
 h1,
 h2,
@@ -404,5 +404,5 @@ p {
   margin-top: 0; }
 
 a {
-  color: #c33;
+  color: #4a90e2;
   text-decoration: none; }
